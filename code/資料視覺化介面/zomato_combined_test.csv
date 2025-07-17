@@ -1,0 +1,6 @@
+Delivery_person_Age,Delivery_person_Ratings,Restaurant_latitude,Restaurant_longitude,Delivery_location_latitude,Delivery_location_longitude,Order_Date,Time_Orderd,Time_Order_picked,Weather_conditions,Road_traffic_density,Type_of_order,Type_of_vehicle,multiple_deliveries,Festival,City,Time_taken (min),order_datetime,distance_km,Estimated_duration_minutes
+36.0,4.2,30.327968,78.046106,30.397968,78.116106,12-02-2022,21:55,22:10,Fog,Jam,Snack,motorcycle,3.0,No,Metropolitian,46,2022-02-12 21:55:00,10.280582064621900,46
+21.0,4.7,10.003064,76.307589,10.043064,76.347589,13-02-2022,14:55,15:05,Stormy,High,Meal,motorcycle,1.0,No,Metropolitian,23,2022-02-13 14:55:00,6.242318682701240,24
+23.0,4.7,18.56245,73.916619,18.65245,74.006619,04-03-2022,17:30,17:40,Sandstorms,Medium,Drinks,scooter,1.0,No,Metropolitian,21,2022-03-04 17:30:00,13.787860239172500,42
+34.0,4.3,30.899584,75.809346,30.919584,75.829346,13-02-2022,09:20,09:30,Sandstorms,Low,Buffet,motorcycle,0.0,No,Metropolitian,20,2022-02-13 09:20:00,2.9302578007621200,15
+24.0,4.7,26.463504,80.372929,26.593504,80.502929,14-02-2022,19:50,20:05,Fog,Jam,Snack,scooter,1.0,No,Metropolitian,41,2022-02-14 19:50:00,19.39661829066160,55
